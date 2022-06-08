@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gamal</h1>
 <h3 align="center">A passionate, self-driven Full-Stack Web Developer✨</h3>
 
-a passionate Full-Stack Web Developer who loves creating apps that solve common day problems with simple, yet intuitive designs
+I'm a Full-Stack Web Developer who loves creating apps that solve common day problems with simple, yet intuitive designs.
 
 - 🔭 I’m currently working on **Image Processing API**
 
