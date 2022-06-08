@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 📫 How to reach me **ahmedg.mohamed07@gmail.com**
+- 📫 You can reach me through my email [here](ahmedg.mohamed07@gmail.com)
+
+- 💬 Ask me about anything, I'll be more than happy to help!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
