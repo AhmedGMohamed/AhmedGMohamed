@@ -2,6 +2,7 @@
 <h3 align="center">A passionate, self-driven Full-Stack Web Developer✨</h3>
 
 [![Linkedin: ahmedgamal00](https://img.shields.io/badge/-ahmedgamal00-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedgamal00/)](https://www.linkedin.com/in/ahmedgamal00/)
+[![Twitter: AhmedGMohamed07](https://img.shields.io/twitter/follow/AhmedGMohamed07?style=social)](https://twitter.com/AhmedGMohamed07)
 
 - 🔭 I’m currently working on **Image Processing API**
 
