@@ -3,9 +3,9 @@
 
 I'm a Full-Stack Web Developer who loves creating apps that solve common day problems with simple, yet intuitive designs.
 
-- 🔭 I’m currently working on **Image Processing API**
+- 🔭 I’m currently working on **Web Store**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Angularjs**
 
 - 📫 You can reach me through my email [here](ahmedg.mohamed07@gmail.com)
 
