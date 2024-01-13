@@ -29,7 +29,7 @@ I'm a Full-Stack Web Developer who loves creating apps that solve common day pro
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="https://skillicons.dev" style="text-decoration=none;">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3">
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap 5">
