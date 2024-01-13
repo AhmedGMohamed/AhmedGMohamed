@@ -2,19 +2,51 @@
 <h3 align="center">A passionate, self-driven Full-Stack Web Developer✨</h3>
 
 I'm a Full-Stack Web Developer who loves creating apps that solve common day problems with simple, yet intuitive designs.
-
 - 🔭 I’m currently working on **Web Store**
-
 - 🌱 I’m currently learning **Angularjs**
-
 - 📫 You can reach me through my email [here](ahmedg.mohamed07@gmail.com)
-
 - 💬 Ask me about anything, I'll be more than happy to help!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmedgamal00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedgamal00" height="30" width="40" /></a> <a href="https://twitter.com/ahmedgmohamed07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedgmohamed07" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/ahmedgamal00" target="blank"
+        ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="ahmedgamal00"
+            height="30"
+            width="40"
+    /></a>
+    <a href="https://twitter.com/ahmedgmohamed07" target="blank"
+        ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="ahmedgmohamed07"
+            height="30"
+            width="40"
+    /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap 5">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="Javascript">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React">
+    <img src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" title="C">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js">
+    <img src="https://skillicons.dev/icons?i=express" alt="express.js" title="Express.js">
+    <img src="https://skillicons.dev/icons?i=jest" alt="Jest" title="Jest">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgresSQL" title="PostgreSQL">
+    <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="50px" alt="CircleCI" title="CircleCI">
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="Amazon Web Services">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
+    <img src="https://skillicons.dev/icons?i=vim" alt="Vim" title="Vim">
+    <img src="https://skillicons.dev/icons?i=linux" alt="linux" title="linux">
+</p>
